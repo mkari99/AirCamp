@@ -9,9 +9,13 @@
 
 활용기술 : Spring Boot, Java, JSP, HTML, JavaScript, CSS, MySQL/exerd, AWS(EC2, RDS)
 
-역할 : 처음부터 끝까지 모든 과정을 경험해보자 를 방향성을 잡고 시작하였습니다. 기상청의 단기(당일~2일)와 중기 날씨(3~10일) 공공 API 파싱 작업, 캠핑장과 관광지 공공 API 재작업, 소셜 로그인( 카카오, 네이버 ), DB모델링 툴 작업, 모든 항목에 대해 전체적인 개발 과정을 팀원들과 진행하였습니다.
+역할 : 처음부터 끝까지 모든 과정을 경험해보자 를 방향성을 잡고 시작하였습니다. 기상청의 단기,중기 날씨 공공 API 파싱 작업, 캠핑장과 관광지 공공 API 재작업, 소셜 로그인( 카카오, 네이버 ), DB모델링 툴 작업, 모든 항목에 대해 전체적인 개발 과정을 팀원들과 진행하였습니다.
 
 ⇒ 별도의 평가 과정이나 채점 과정은 없었으나 담당 선생님의 개별적인 평가에서 1등으로 프로젝트를 마칠 수 있었습니다. 전체 과정을 각자 모두 진행하다보니 개발 속도가 더뎌저 처음 기획했던 세부적인 기능이 자세하게 구현되지 못해 아쉬움이 컸습니다. 
 ![image](https://github.com/mkari99/AirCamp/assets/95588307/59a1ed8f-100e-473e-b0dc-36815420ac86)
+![image](https://github.com/mkari99/AirCamp/assets/95588307/866d4e71-6789-4974-8310-99123f767d01)
+![image](https://github.com/mkari99/AirCamp/assets/95588307/08cae5d4-baca-43dc-bc80-b8a0d7e3a1ce)
+![image](https://github.com/mkari99/AirCamp/assets/95588307/964a84bd-c62d-4b4a-88ca-47d59f06028c)
+![image](https://github.com/mkari99/AirCamp/assets/95588307/680259cb-ee50-42a3-8935-50bd1a33ebfc)
 
 
